@@ -10,7 +10,7 @@ Utilizar o [rbenv](https://github.com/rbenv/rbenv) para controlar a versão do r
 
 #### Build and Run
 
-antes de rodar o projeto pela primeira vez, certifique-se de entrar na pasta `ios` do projeto RN e rodar o comando `bundle install` 
+antes de rodar o projeto pela primeira vez, certifique-se de entrar na pasta `ios` do projeto RN e rodar o comando `bundle install` e em seguida `bundle exec pod install` 
 
 ### Android
 
